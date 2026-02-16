@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/gm-resources/experiment-website/d-and-d/character-creation/"}
 ---
 
-
-| [[GM Resources/EXPERIMENT WEBSITE/DaggerHelperHome\|Home]] | Other future links lmao |
-| -------------------------- | ----------------------- |
-
----
 THIS IS A VERY ROUGH DRAFT OF WHAT WILL BE HERE
 
 - **Write however little or as much as you want** 
