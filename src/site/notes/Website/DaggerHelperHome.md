@@ -25,6 +25,4 @@ Welcome! This website is meant to help you access any tabletop materials you may
 - **Domain Cards** (Coming Soon)
 - **Weapons & Armour** (Coming Soon)
 
-## D&D (2024) Resources
-
-- Idk what to put here yet
+![image](https://upload.wikimedia.org/wikipedia/en/0/08/Daggerheart_logo_2024.png)
