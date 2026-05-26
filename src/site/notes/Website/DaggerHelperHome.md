@@ -4,7 +4,7 @@
 
 # DaggerHelper
 
-![Image](https://www.daggerheart.com/wp-content/uploads/2024/12/HEADER-DH-Limited-Cover-Art-1024x504.png)
+![Image|500](https://www.daggerheart.com/wp-content/uploads/2024/12/HEADER-DH-Limited-Cover-Art-1024x504.png)
 
 Welcome! This website is meant to help you access any tabletop materials you may need for my games. It is a public domain so I don't plan on publishing anything campaign-specific (and probably nothing with copywrite).
 
@@ -34,7 +34,7 @@ Welcome! This website is meant to help you access any tabletop materials you may
 
 #### Unofficial Resources
 - [Players Handbook](https://anyflip.com/rfqel/isyh) - The standard 2024 PHB, that said, its not that convenient.
-- [Wikidot](http://dnd2024.wikidot.com/) - I reccomend you use this for character creation/levelling up
+- [Wikidot](http://dnd2024.wikidot.com/) - I recommend you use this for character creation/levelling up
 
 #### Official Resources
 - [D&D 2024 Free Rules](https://www.dndbeyond.com/sources/dnd/free-rules?srsltid=AfmBOoqTFPbYnGYnFFnmTRlVl3uJdDhp37mLNR0NZ9mMrlhWacm-CYsT) - Useful, although limited. Perfect for rule references
