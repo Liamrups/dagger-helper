@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/dagger-helper-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/website/dagger-helper-home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # DaggerHelper
