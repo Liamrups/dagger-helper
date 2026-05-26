@@ -9,12 +9,12 @@
 Welcome! This website is meant to help you access any tabletop materials you may need for my games. It is a public domain so I don't plan on publishing anything campaign-specific (and probably nothing with copywrite).
 
 ---
-## General Resources
+## ![D20|20](https://cdn-icons-png.flaticon.com/512/6650/6650171.png) General Resources
 
 - **[[Website/General/CharacterCreation\|Character Creation Best Practices]]**
 
 ---
-## Daggerheart Resources
+## ![Logo|20](https://upload.wikimedia.org/wikipedia/en/0/08/Daggerheart_logo_2024.png) Daggerheart Resources 
 
 #### Play Guides
 
@@ -30,7 +30,7 @@ Welcome! This website is meant to help you access any tabletop materials you may
 - **Weapons & Armour** (Coming Soon)
 
 ---
-## D&D Resources
+## ![Logo|20](https://www.enworld.org/media/ampersand-transparent-png.55177/full) D&D Resources
 
 #### Unofficial Resources
 - [Players Handbook](https://anyflip.com/rfqel/isyh) - The standard 2024 PHB, that said, its not that convenient.
