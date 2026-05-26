@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/website/daggerheart/dh-play-guide/","dg-note-properties":{}}
 ---
 
+# Daggerheart Player Guide
+
 ## Action Rolls
 
 #### Guide
