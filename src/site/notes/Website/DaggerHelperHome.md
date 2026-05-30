@@ -8,12 +8,10 @@
 
 Welcome! This website is meant to help you access any tabletop materials you may need for my games. It is a public domain so I don't plan on publishing anything campaign-specific (and probably nothing with copywrite).
 
----
 ## ![D20|20](https://freepngimg.com/save/90810-dice-d20-dungeons-system-dragons-black/512x512) General Resources
 
 - **[[Website/General/CharacterCreation\|Character Creation Best Practices]]**
 
----
 ## ![Logo|20](https://upload.wikimedia.org/wikipedia/en/0/08/Daggerheart_logo_2024.png) Daggerheart Resources 
 
 #### Play Guides
@@ -36,7 +34,6 @@ Welcome! This website is meant to help you access any tabletop materials you may
 - **[Domain Cards](https://daggerheart.org/reference/all-domain-cards#)** - Use the top navigation bar to parse through domains, spells, abilities, or all!
 - **[Weapons](https://daggerheart.org/reference/weapons) & [Armour](https://daggerheart.org/reference/armor)** - Tables for picking your main equipment.
 
----
 ## ![Logo|20](https://www.enworld.org/media/ampersand-transparent-png.55177/full) D&D Resources
 
 #### Official Resources
